@@ -1,2 +1,2 @@
 Pillow>=11.3,<13
-gunicorn app:application
+gunicorn
